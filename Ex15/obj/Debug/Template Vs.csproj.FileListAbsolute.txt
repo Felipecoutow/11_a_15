@@ -1,0 +1,20 @@
+Z:\Template Vs\bin\Debug\Template Vs.exe.config
+Z:\Template Vs\bin\Debug\Template Vs.exe
+Z:\Template Vs\bin\Debug\Template Vs.pdb
+Z:\Template Vs\obj\Debug\Template Vs.csprojAssemblyReference.cache
+Z:\Template Vs\obj\Debug\Template_Vs.Form1.resources
+Z:\Template Vs\obj\Debug\Template_Vs.Properties.Resources.resources
+Z:\Template Vs\obj\Debug\Template Vs.csproj.GenerateResource.cache
+Z:\Template Vs\obj\Debug\Template Vs.csproj.CoreCompileInputs.cache
+Z:\Template Vs\obj\Debug\Template Vs.exe
+Z:\Template Vs\obj\Debug\Template Vs.pdb
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\bin\Debug\Template Vs.exe.config
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\bin\Debug\Template Vs.exe
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\bin\Debug\Template Vs.pdb
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template Vs.csprojAssemblyReference.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template_Vs.Form1.resources
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template_Vs.Properties.Resources.resources
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template Vs.csproj.GenerateResource.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template Vs.csproj.CoreCompileInputs.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template Vs.exe
+Z:\LIPR\Felipe Couto - Atividade 6\Ex15\obj\Debug\Template Vs.pdb

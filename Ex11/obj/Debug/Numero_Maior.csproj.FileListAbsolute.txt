@@ -1,0 +1,10 @@
+Z:\Felipe Couto - Atividade 6\Template Vs\bin\Debug\Template Vs.exe.config
+Z:\Felipe Couto - Atividade 6\Template Vs\bin\Debug\Template Vs.exe
+Z:\Felipe Couto - Atividade 6\Template Vs\bin\Debug\Template Vs.pdb
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Numero_Maior.csprojAssemblyReference.cache
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Template_Vs.Form1.resources
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Template_Vs.Properties.Resources.resources
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Numero_Maior.csproj.GenerateResource.cache
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Numero_Maior.csproj.CoreCompileInputs.cache
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Template Vs.exe
+Z:\Felipe Couto - Atividade 6\Template Vs\obj\Debug\Template Vs.pdb

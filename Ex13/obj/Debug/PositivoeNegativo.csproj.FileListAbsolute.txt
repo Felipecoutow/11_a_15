@@ -1,0 +1,10 @@
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\bin\Debug\Template VS.exe.config
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\bin\Debug\Template VS.exe
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\bin\Debug\Template VS.pdb
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\PositivoeNegativo.csprojAssemblyReference.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\Template_VS.frmPositivoOuNegativo.resources
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\Template_VS.Properties.Resources.resources
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\PositivoeNegativo.csproj.GenerateResource.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\PositivoeNegativo.csproj.CoreCompileInputs.cache
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\Template VS.exe
+Z:\LIPR\Felipe Couto - Atividade 6\Ex13\obj\Debug\Template VS.pdb

@@ -1,0 +1,21 @@
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.exe.config
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.exe
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.pdb
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.AssemblyReference.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template_VS.Properties.Resources.resources
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.GenerateResource.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.CoreCompileInputs.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.exe
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.pdb
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template_VS.Form1.resources
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\bin\Debug\Template VS.exe.config
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\bin\Debug\Template VS.exe
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\bin\Debug\Template VS.pdb
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template VS.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template_VS.Form1.resources
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template_VS.Properties.Resources.resources
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template VS.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template VS.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template VS.exe
+C:\Users\Felipe\Documents\Visual Studio Fieb\Template VS\obj\Debug\Template VS.pdb
