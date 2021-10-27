@@ -1,0 +1,11 @@
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.exe.config
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.exe
+C:\Users\Feh\Documents\Template VS\bin\Debug\Template VS.pdb
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.AssemblyReference.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template_VS.Properties.Resources.resources
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.GenerateResource.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.csproj.CoreCompileInputs.cache
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.exe
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template VS.pdb
+C:\Users\Feh\Documents\Template VS\obj\Debug\Template_VS.Form1.resources
